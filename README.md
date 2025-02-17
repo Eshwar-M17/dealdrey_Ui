@@ -1,7 +1,3 @@
-Certainly! Below is the content formatted in **Markdown** for your `README.md` file. You can copy and paste it directly into your project's README file.
-
----
-
 # Flutter App - DealsDray Internship Task
 
 ## Overview
