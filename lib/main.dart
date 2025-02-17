@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:dealsdray/screens/loading_page.dart';
-import 'package:dealsdray/screens/login_page.dart';
 
 void main() {
   runApp(const MyApp());

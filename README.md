@@ -1,16 +1,63 @@
-# dealsdray
+Certainly! Below is the content formatted in **Markdown** for your `README.md` file. You can copy and paste it directly into your project's README file.
 
-A new Flutter project.
+---
 
-## Getting Started
+# Flutter App - DealsDray Internship Task
 
-This project is a starting point for a Flutter application.
+## Overview
+This Flutter app is designed as part of the internship selection process for DealsDray. It provides a complete user authentication flow and a rich user interface for product browsing. Key features include:
 
-A few resources to get you started if this is your first Flutter project:
+- **Device Registration**: Registers the device with the server when the app starts.
+- **Phone Login & OTP Verification**: Allows users to log in using their phone number and verify via OTP.
+- **User Registration**: Collects email, password, and optional referral code for incomplete registrations.
+- **Home Screen**: Displays banners, categories, exclusive offers, and a KYC card for account activation.
+- **Bottom Navigation Bar**: Provides navigation between Home, Categories, Deals, Cart, and Profile.
+- **Floating Action Button**: Initiates a chat feature.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/loginscreen.jpg" width="200">
+  <img src="screenshots/otpscrren.jpg" width="200">
+  <img src="screenshots/registerscreen.jpg" width="200">
+  <img src="screenshots/homescreen.jpg" width="200">
+</p>
+
+
+---
+
+
+
+## Setup Instructions
+
+### Prerequisites
+1. Install Flutter SDK: [Download Flutter](https://flutter.dev/docs/get-started/install).
+2. Set up an IDE like Visual Studio Code or Android Studio.
+3. Use an emulator or connect a physical device for testing.
+
+### Steps to Run the App
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-repo-url/flutter-internship-task.git
+   cd flutter-internship-task
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the App**
+   ```bash
+   flutter run
+   ```
+
+4. **Test on Emulator/Device**
+   - Ensure you have an emulator running or a physical device connected.
+   - Use the command `flutter devices` to check available devices.
+
+---
+
+That’s it! This simple `README.md` provides all the essential information about your project in a clean and professional format.
