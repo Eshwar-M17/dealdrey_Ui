@@ -11,8 +11,20 @@ This Flutter app is designed as part of the internship selection process for Dea
 - **Floating Action Button**: Initiates a chat feature.
 
 ---
+### Demo Video
+
+A short demo video (1–3 minutes) has been recorded to showcase the key features of the app,
+
+Download the demo video to watch by clicking the thumbnail below:
+
+<a href="demo_vid">
+  <img src="demo_vid/demo_vid_thumbnail.png" alt="Demo Video" width="500">
+</a> 
+
+---
 
 ## Screenshots
+
 
 <p align="center">
   <img src="screenshots/loginscreen.jpg" width="200">
