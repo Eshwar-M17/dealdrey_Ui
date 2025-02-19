@@ -1,7 +1,3 @@
-Certainly! Below is the content formatted in **Markdown** for your `README.md` file. You can copy and paste it directly into your project's README file.
-
----
-
 # Flutter App - DealsDray Internship Task
 
 ## Overview
@@ -59,5 +55,3 @@ This Flutter app is designed as part of the internship selection process for Dea
    - Use the command `flutter devices` to check available devices.
 
 ---
-
-That’s it! This simple `README.md` provides all the essential information about your project in a clean and professional format.
