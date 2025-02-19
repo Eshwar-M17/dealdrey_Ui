@@ -48,8 +48,8 @@ class _LoginPageState extends State<LoginPage> {
         );
       } else {
         ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(
-              content: Text('Failed to request OTP. Please try again.')),
+           SnackBar(
+              content: Text('Failed to request OTP. Please try again.${response.statusCode}')),
         );
       }
     } catch (e) {
