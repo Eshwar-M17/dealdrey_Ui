@@ -17,7 +17,9 @@ A short demo video (1–3 minutes) has been recorded to showcase the key feature
 
 Download the demo video to watch by clicking the thumbnail below:
 
-[![Demo Video](demo_vid/demo_vid_thumbnail.png)](demo_vid)  
+<a href="demo_vid">
+  <img src="demo_vid/demo_vid_thumbnail.png" alt="Demo Video" width="300">
+</a> 
 ## Screenshots
 
 <p align="center">
