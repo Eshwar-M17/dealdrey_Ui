@@ -20,8 +20,11 @@ Download the demo video to watch by clicking the thumbnail below:
 <a href="demo_vid">
   <img src="demo_vid/demo_vid_thumbnail.png" alt="Demo Video" width="500">
 </a> 
-## Screenshots
+
 ---
+
+## Screenshots
+
 
 <p align="center">
   <img src="screenshots/loginscreen.jpg" width="200">
